@@ -1,8 +1,7 @@
  ***Hi there I'm Den Lytvynenko (https://www.instagram.com/xaidaqx/)*** 👋
 
-- 🌱 I’m currently learning .NET Core MVC, React, Angular, C++...
+- 🌱 I’m currently learning .NET Core MVC, C++...
 - 👯 I’m looking to collaborate on different projects....
-- ⚡ Fun fact: Let's talk about gaming.
 
  <br />
 <div align="center"> 
